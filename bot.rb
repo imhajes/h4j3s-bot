@@ -5,11 +5,11 @@ require 'cinch'
 
 bot = Cinch::Bot.new do
   configure do |c|
-    c.server = 'irc.freenode.net'
+    c.server = 'irc.dal.net'
     c.user = 'BotName'
-    c.nick = 'BotName'
+    c.nick = 'BotName34'
     c.realname = 'My Bot'
-    c.channels = '#your-channel-name'
+    c.channels = '#go'
 
   end
 
